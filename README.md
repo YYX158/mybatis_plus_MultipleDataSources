@@ -1,0 +1,2 @@
+这是一个MybatisPlus入门项目，主要采用SpringBoot来整合Mybatis。
+采用多数据源的方式，因此在业务层的时候有点区别
